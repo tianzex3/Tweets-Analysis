@@ -24,3 +24,13 @@ The objective is to identify whether Twitter can be considered a credible source
 -Are these mostly government institutions, universities and credible non-profit organizations? <br>
 -Or random users tweeting about their schools, teachers, application processes, or attitudes toward going (or not going) to schools. <br>
 -Do you see most of these messages being original content or just copies of the original tweets / retweets?
+
+## Conclusion
+Twitter could be considered a source of information that can reflect the emergence of important trends or topics in education. It also could be useful for understanding the public’s opinion on a certain topic or trend in education.
+
+However, based on the current analysis, it should not be considered a creditable source to obtain knowledge for the topic in general until further tweet analysis. Since most tweets are original content created by social media influencers other than authority agencies such as governments, schools, news, and non-profit organizations.
+
+## Future Work
+In addition to the current analysis, the analysis of the credibility of original tweets created by social media influencers could be the aim for the next step:
+
+__“How credible are the original tweets could be taken for topic knowledge gaining from non-authority entities?”__
