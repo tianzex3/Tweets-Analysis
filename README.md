@@ -1,6 +1,9 @@
 # Tweets-Analysis (Big Data Platform)
 __Whether Twitter can be considered a credible source of information, reflects the emergence of important trends or topics in education, specifically: “Biden’s college student debt relief”.__
 
+
+![image](https://user-images.githubusercontent.com/90085137/210304292-49b1056c-0308-44a7-8727-814904cec084.png)
+
 ## Methodology
 Tool: Google Cloud Platform <br>
 File Type: Json <br>
